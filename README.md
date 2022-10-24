@@ -7,10 +7,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=⭐Frontend%20developer⭐;My%20experience%20>%202%20years;Always%20learning%20new%20things%20📚;💖%20the%20creative%20process&font=Roboto&center=true&width=600&height=45&color=703ee5&vCenter=true&size=25&">
 </p>
 
+
 <p align="center">
-  <a href="https://vk.com/sofya1212">ВК</a>&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/Sofia_ego">Telegram</a>
+<a name="telegram" href="https://t.me/Sofia_ego"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+ <a name="gmail" href="https://vk.com/sofya1212"> <img src="https://img.icons8.com/color/48/000000/vk-circled.png"/></a><br>
 </p>
+
+
+
 
 
 &nbsp;<br>
