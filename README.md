@@ -37,7 +37,11 @@
 [material-palenight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight
 
 <div align="center">
-  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorova-sofya&layout=compact&border_color=703ee5&&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="100%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egorova-sofya&layout=compact&border_color=703ee5&&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
+
+
+
+
 
 
